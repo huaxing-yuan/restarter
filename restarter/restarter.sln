@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restarter", "restarter.csproj", "{8B5C852C-FCD1-4FC2-A245-922766263109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5C852C-FCD1-4FC2-A245-922766263109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5C852C-FCD1-4FC2-A245-922766263109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5C852C-FCD1-4FC2-A245-922766263109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5C852C-FCD1-4FC2-A245-922766263109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F3CB42-554D-4EAF-9E23-5C3F7D2C6CBE}
+	EndGlobalSection
+EndGlobal
